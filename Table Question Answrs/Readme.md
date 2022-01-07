@@ -15,6 +15,9 @@ ner (named entity recognition)
 
 question-answering
 
+![image](https://user-images.githubusercontent.com/60923869/148576480-83b287f1-bcf6-40af-9a01-d7f7f78b5e5d.png)
+
+
 sentiment-analysis
 
 summarization
