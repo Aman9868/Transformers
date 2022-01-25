@@ -41,3 +41,6 @@ classifier("I've been waiting for  Hugging Face course my whole life.)
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/60923869/151026671-aa3d7389-deab-479a-be92-ab8adbacf380.png)
 
+## Demo
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60923869/151031668-ad6f1a0d-30a1-4add-878a-ef1e2303bdbb.gif)
+
