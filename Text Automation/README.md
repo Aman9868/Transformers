@@ -39,5 +39,5 @@ classifier("I've been waiting for  Hugging Face course my whole life.)
 
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/60923869/151026671-aa3d7389-deab-479a-be92-ab8adbacf380.png)
 
